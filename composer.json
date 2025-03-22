@@ -53,5 +53,7 @@
                 "Apexcharts": "Likewares\\Apexcharts\\Facade"
             }
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
